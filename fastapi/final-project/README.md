@@ -1,6 +1,6 @@
 # 🎬 Movie Ticket Booking System — FastAPI
 
-A complete FastAPI backend project built as part of the Innomatics Research Labs internship.
+A complete FastAPI backend project is built as part of the Innomatics Research Labs internship.
 
 ## 🚀 How to Run
 
@@ -44,6 +44,3 @@ fastapi-movie-ticket-booking/
 - **Pydantic** — Data validation
 - **Uvicorn** — ASGI server
 - **Swagger UI** — API testing
-
-## 👤 Author
-Built during FastAPI internship at Innomatics Research Labs.
